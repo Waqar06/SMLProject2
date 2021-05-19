@@ -1,0 +1,18 @@
+Logistic Regression Settings
+
+Best: 0.302222 using {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.261111 (0.075072) with: {'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}
+0.257778 (0.067732) with: {'C': 100, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.256667 (0.072085) with: {'C': 100, 'penalty': 'l2', 'solver': 'liblinear'}
+0.270000 (0.079977) with: {'C': 10, 'penalty': 'l2', 'solver': 'newton-cg'}
+0.256667 (0.072085) with: {'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.257778 (0.069353) with: {'C': 10, 'penalty': 'l2', 'solver': 'liblinear'}
+0.273333 (0.080462) with: {'C': 1.0, 'penalty': 'l2', 'solver': 'newton-cg'}
+0.272222 (0.073577) with: {'C': 1.0, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.266667 (0.073030) with: {'C': 1.0, 'penalty': 'l2', 'solver': 'liblinear'}
+0.281111 (0.081050) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'newton-cg'}
+0.285556 (0.080592) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.273333 (0.086238) with: {'C': 0.1, 'penalty': 'l2', 'solver': 'liblinear'}
+0.301111 (0.084539) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'newton-cg'}
+0.302222 (0.085172) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
+0.293333 (0.080000) with: {'C': 0.01, 'penalty': 'l2', 'solver': 'liblinear'}
